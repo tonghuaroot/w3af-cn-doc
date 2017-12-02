@@ -82,3 +82,26 @@ w3af 是审计和利用Web应用程序的完整环境。这个环境为 Web 漏�
 - - - [Exploitation](http://docs.w3af.org/en/latest/gui/exploitation.html)
 - - - [工具](http://docs.w3af.org/en/latest/gui/tools.html)
 - - - [配置](http://docs.w3af.org/en/latest/gui/configuration.html)
+
+
+## REST API 文档
+- [REST API 介绍](http://docs.w3af.org/en/latest/api/index.html)
+- - [启动 REST API 服务](http://docs.w3af.org/en/latest/api/index.html#starting-the-rest-api-service)
+- - [认证](http://docs.w3af.org/en/latest/api/index.html#authentication)
+- - [配置文件格式](http://docs.w3af.org/en/latest/api/index.html#config-file-format)
+- - [服务使用 TLS/SSL](http://docs.w3af.org/en/latest/api/index.html#serve-using-tls-ssl)
+- - [REST API 源代码](http://docs.w3af.org/en/latest/api/index.html#rest-api-source-code)
+- - [REST API 客户端](http://docs.w3af.org/en/latest/api/index.html#rest-api-clients)
+- - [服务使用 TLS/SSL](http://docs.w3af.org/en/latest/api/index.html#serve-using-tls-ssl)
+- - [API endpoints](http://docs.w3af.org/en/latest/api/index.html#api-endpoints)
+- - - [/scans/ 资源](http://docs.w3af.org/en/latest/api/scans.html)
+- - - [/kb/ 资源](http://docs.w3af.org/en/latest/api/kb.html)
+- - - [/version 资源](http://docs.w3af.org/en/latest/api/kb.html)
+- - - [/traffic/ 资源](http://docs.w3af.org/en/latest/api/traffic.html)
+- - - [/urls/ 资源](http://docs.w3af.org/en/latest/api/urls.html)
+- - - [/fuzzable-requests/ 资源](http://docs.w3af.org/en/latest/api/urls.html#the-fuzzable-requests-resource)
+- - - [/exceptions/ 资源](http://docs.w3af.org/en/latest/api/exceptions.html)
+
+## 高级技巧（tips）和窍门（tricks）
+- [高级技巧（tips）和窍门（tricks）](http://docs.w3af.org/en/latest/advanced-tips-tricks.html)
+- - [内存使用和缓存](http://docs.w3af.org/en/latest/advanced-tips-tricks.html#memory-usage-and-caches)
