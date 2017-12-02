@@ -72,3 +72,13 @@ w3af 是审计和利用Web应用程序的完整环境。这个环境为 Web 漏�
 - - [过时的配置文件](http://docs.w3af.org/en/latest/report-a-bug.html#outdated-profiles)
 - [贡献力量](http://docs.w3af.org/en/latest/contribute.html)
 
+
+## GUI 文档
+- [GUI 介绍](http://docs.w3af.org/en/latest/gui/index.html)
+- - [内容](http://docs.w3af.org/en/latest/gui/index.html#contents)
+- - - [通用结构](http://docs.w3af.org/en/latest/gui/general-structure.html)
+- - - [扫描](http://docs.w3af.org/en/latest/gui/scanning.html)
+- - - [分析结果](http://docs.w3af.org/en/latest/gui/analyzing-results.html)
+- - - [Exploitation](http://docs.w3af.org/en/latest/gui/exploitation.html)
+- - - [工具](http://docs.w3af.org/en/latest/gui/tools.html)
+- - - [配置](http://docs.w3af.org/en/latest/gui/configuration.html)
