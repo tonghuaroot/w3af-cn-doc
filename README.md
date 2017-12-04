@@ -15,10 +15,10 @@
 w3af 是审计和利用Web应用程序的完整环境。这个环境为 Web 漏洞评估和渗透测试提供了一个可靠的平台。
 
 ## 目录
-- [安装](http://docs.w3af.org/en/latest/install.html)
-- - [安装前的准备](http://docs.w3af.org/en/latest/install.html#prerequisites)
-- - [安装](http://docs.w3af.org/en/latest/install.html#id1)
-- - [支持平台](http://docs.w3af.org/en/latest/install.html#supported-platforms)
+- [w3af 的安装](INSTALL.md)
+- - [安装前的准备](INSTALL.md#安装前的准备)
+- - [安装](INSTALL.md#安装)
+- - [支持平台](INSTALL.md#支持平台)
 - - [在Kali中安装](http://docs.w3af.org/en/latest/install.html#installation-in-kali)
 - - [使用Docker安装](http://docs.w3af.org/en/latest/install.html#installing-using-docker)
 - - [使用Mac OSX安装](http://docs.w3af.org/en/latest/install.html#installation-in-mac-osx)
